@@ -1,1 +1,1 @@
-[![](https://raw.githubusercontent.com/BlueSky2311/BlueSky2311/blob/main/Header.gif)]
+[![MasterHead](https://github.com/BlueSky2311/BlueSky2311/blob/main/Header.gif)](https://github.com/BlueSky2311)
