@@ -7,13 +7,13 @@
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <div style="margin-right: 10px;">
     <a href="https://github.com/BlueSky2311">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSky2311&layout=donut-vertical" alt="Top Langs" style="max-width: 150px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSky2311&layout=donut-vertical" alt="Top Langs" style="max-width: 80px;" />
     </a>
   </div>
   
   <div style="margin-left: 10px;">
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Readme Quotes" style="max-width: 150px;" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Readme Quotes" style="max-width: 100px;" />
     </a>
   </div>
 </div>
