@@ -1,3 +1,19 @@
-[![MasterHead](https://github.com/BlueSky2311/BlueSky2311/blob/main/Header.gif)](https://github.com/BlueSky2311)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSky2311&layout=donut-vertical)](https://github.com/BlueSky2311)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+<div style="text-align: center;">
+  <a href="https://github.com/BlueSky2311">
+    <img src="https://github.com/BlueSky2311/BlueSky2311/blob/main/Header.gif" alt="MasterHead" style="width: 100%; max-width: 1000px;" />
+  </a>
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <div style="flex: 1; text-align: right; margin-right: 10px;">
+    <a href="https://github.com/BlueSky2311">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSky2311&layout=donut-vertical" alt="Top Langs" style="width: 100%; max-width: 300px;" />
+    </a>
+  </div>
+  
+  <div style="flex: 1; text-align: left; margin-left: 10px;">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Readme Quotes" style="width: 100%; max-width: 300px;" />
+    </a>
+  </div>
+</div>
