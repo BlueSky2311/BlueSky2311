@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="margin-right: 10px;">
     <a href="https://github.com/BlueSky2311">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSky2311&layout=donut-vertical" alt="Top Langs" style="width: 100%; max-width: 300px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSky2311&layout=compact" alt="Top Langs" style="width: 100%; max-width: 300px;" />
     </a>
   </div>
   
