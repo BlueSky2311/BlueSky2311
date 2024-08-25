@@ -8,7 +8,7 @@
   <p style="font-size: 24px;">Here are some of the languages I have experience with:</p>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; background: rgba(255, 255, 255, 0); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 800px;">
   <div style="margin-right: 20px;">
     <a href="https://github.com/BlueSky2311">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSky2311&layout=donut-vertical" alt="Top Langs" style="max-width: 300px;" />
