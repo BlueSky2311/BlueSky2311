@@ -4,14 +4,13 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <p style="font-size: 24px;">Here are some of the languages I have experience with:</p>
-</div>
-
 <div align="center" style="background: rgba(255, 255, 255, 0); padding: 20px; border-radius: 15px; max-width: 800px; margin: 20px auto;">
   <table>
     <tr>
       <td style="padding-right: 20px;">
+        <div align="center">
+          <p style="font-size: 24px;">Here are some of the languages I have experience with:</p>
+        </div>
         <a href="https://github.com/BlueSky2311">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSky2311&layout=donut-vertical" alt="Top Langs" style="max-width: 300px;" />
         </a>
