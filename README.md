@@ -5,20 +5,22 @@
 </div>
 
 <div align="center" style="background: rgba(255, 255, 255, 0); padding: 20px; border-radius: 15px; max-width: 800px; margin: 20px auto;">
-  <table>
+  <table style="width: 100%;">
     <tr>
-      <td style="padding-right: 20px;">
-        <div align="center">
-          <p style="font-size: 24px;">Here are some of the languages I have experience with:</p>
-        </div>
+      <td align="center" style="padding-right: 20px;">
+        <p style="font-size: 24px;">Here are some of the languages I have experience with:</p>
+      </td>
+      <td align="center" style="padding-left: 20px;">
+        <p style="font-size: 24px;">Random quotes:</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding-right: 20px;">
         <a href="https://github.com/BlueSky2311">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSky2311&layout=donut-vertical" alt="Top Langs" style="max-width: 300px;" />
         </a>
       </td>
-      <td style="padding-left: 20px;">
-        <div align="center">
-          <p style="font-size: 24px;">Random quotes:</p>
-        </div>
+      <td align="center" style="padding-left: 20px;">
         <a href="https://github.com/piyushsuthar/github-readme-quotes">
           <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Readme Quotes" style="max-width: 300px;" />
         </a>
