@@ -4,11 +4,15 @@
   </a>
 </div>
 
+## - Hi, my name is Mai Duc Anh. 
+## - I'm a biology graduate with hands-on experience in computational modeling, molecular dynamics simulations, and genomic analysis
+## - I aspire to further my studies in bioinformatics, focusing on advancing research at the intersection of computational and biological sciences to deepen our understanding of complex biological systems
+
 <div align="center" style="background: rgba(255, 255, 255, 0); padding: 20px; border-radius: 15px; max-width: 800px; margin: 20px auto;">
   <table style="width: 100%;">
     <tr>
       <td align="center" style="padding-right: 20px;">
-        <p style="font-size: 24px;">Here are some of the languages I have experience with:</p>
+        <p style="font-size: 24px;"> Languages experienced:</p>
       </td>
       <td align="center" style="padding-left: 20px;">
         <p style="font-size: 24px;">Random quotes:</p>
